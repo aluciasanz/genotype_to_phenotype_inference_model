@@ -2,7 +2,12 @@
 This is a machine learning method to infer phage and bacterial mutations driving changes in infection phenotypes.
 
 ## Experimental data in /data
-We use experimental data from Gupta et al., 2022 where E. coli B strain REL606 and phage λ strain cI26 were co-cultured for a 37-day period. Samples were taken on checkpoint days for sequencing and pairwise quantitative plaque assays as described in (Gupta A P. S., 2022). Table 1a and Table 1b contain genome wide changes of 50 bacterial host (descended from E. coli B strain REL606) and 44 phage (descended from λ strain cI26) strains including 18 and 176 unique mutations for the host and phage respectively. Table 2 contain the list of interactions of all phage-bacterial pairs including ancestors as the efficiency of a phage isolate infecting a derived host strain relative to that for infecting the ancestral strain (EOP values) yielding a 51 by 45 cross-infection matrix. 
+We use experimental data from Gupta et al., 2022 where E. coli B strain REL606 and phage λ strain cI26 were co-cultured for a 37-day period. Samples were taken on checkpoint days for sequencing and pairwise quantitative plaque assays as described in (Gupta A P. S., 2022).
+<ul>
+  <li> **Table_1a.csv** and **Table_1b.csv** contain genome wide changes of 50 bacterial host (descended from E. coli B strain REL606) and 44 phage (descended from λ strain cI26) strains including 18 and 176 unique mutations for the host and phage respectively.</li>
+  <li> **Table_2.csv** contain the list of interactions of all phage-bacterial pairs including ancestors as the efficiency of a phage isolate infecting a derived host strain relative to that for infecting the ancestral strain (EOP values) yielding a 51 by 45 cross-infection matrix. </li>
+</ul> 
+ 
 
 ## How to run the machine learning framework
 ### step 1. 
