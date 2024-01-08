@@ -2,7 +2,7 @@
 ## How to run the machine learning framework
 ### step 1. 
 ```
-run approximation6_uniq_nonsyn.R
+run approximation_uniq_nonsyn.R
 ```
 ### step 2. 
 ```
