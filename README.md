@@ -65,5 +65,5 @@ run p3_sf4.R
 ```
 ### S1,3,Figure:
 ```
-run p3_sf13.R and stitch
+run p3_sf13.R 
 ```
