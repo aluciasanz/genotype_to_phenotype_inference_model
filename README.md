@@ -1,4 +1,6 @@
 # Genotype to phenotype inference model
+This is a machine learning to method to infer phage and bacterial mutations driving changes in infection phenotypes. 
+
 ## How to run the machine learning framework
 ### step 1. 
 ```
