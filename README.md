@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13838669.svg)](https://doi.org/10.5281/zenodo.13838669)
+
+
 # Genotype to phenotype inference model
 This is a machine learning method to infer phage and bacterial mutations driving changes in infection phenotypes.
 
